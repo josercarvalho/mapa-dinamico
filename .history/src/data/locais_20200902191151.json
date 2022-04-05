@@ -1,0 +1,955 @@
+[{
+      "id": 1,
+      "latlng": "-2.5078933,-44.1981634",
+      "nome": "ESCOLA MUNICIPAL DO ALTO DO TURU",
+      "endereco": "Novo Cohatrac, São José de Ribamar - MA, 65110-000",
+      "bairro": "ALTO DO TURU",
+      "eleitores": 1944,
+      "sessoes": 6
+   },
+   {
+      "id": 2,
+      "latlng": "-2.4765265,-44.1993895",
+      "nome": "COLÉGIO EDUCAR PRIME",
+      "endereco": "Av. Atlântica, 1-3 - Araçagy, São José de Ribamar - MA, 65110-000",
+      "bairro": "ARAÇAGY",
+      "eleitores": 98,
+      "sessoes": 1
+   },
+   {
+      "id": 3,
+      "latlng": "-2.4781484,-44.1879153",
+      "nome": "ESCOLA MUNICIPAL RAIMUNDO ROCHA LEAL JUNIOR",
+      "endereco": "R. Silva Rocha - Araçagi, São José de Ribamar - MA, 65110-000",
+      "bairro": "ARAÇAGY",
+      "eleitores": 487,
+      "sessoes": 2
+   },
+   {
+      "id": 3,
+      "latlng": "-2.4769883,-44.2030725",
+      "nome": "COLEGIO MARISTA ARACAGY",
+      "endereco": "Tv. Araçagi, 48 - Araçagy, São José de Ribamar - MA, 65110-000",
+      "bairro": "ARAÇAGY",
+      "eleitores": 2653,
+      "sessoes": 8
+   },
+   {
+      "id": 5,
+      "latlng": "-2.5459738,-44.079861",
+      "nome": "JARDIM DE INFANCIA PEQUENO POLEGAR",
+      "endereco": "Avenida São Bernardo, s/n, Bom Jardim, São José De Ribamar - MA, CEP: 65110-000",
+      "bairro": "BOM JARDIM",
+      "eleitores": 372,
+      "sessoes": 2
+   },
+   {
+      "id": 6,
+      "latlng": "-2.5598177,-44.1763123",
+      "nome": "UNIDADE INTEGRADA BERNARDO SERGIO DA CUNHA",
+      "endereco": "R. Principal - Bom Jardim - Zona Rural, São José de Ribamar - MA, 65110-000",
+      "bairro": "BOM JARDIM",
+      "eleitores": 799,
+      "sessoes": 3
+   },
+   {
+      "id": 7,
+      "latlng": "-2.5613242,-44.1911436",
+      "nome": "UNIDADE ESCOLAR MARIA DE LOURDES OLIVEIRA",
+      "endereco": "Av. Principal - Canavieira - Zona Rural, São José de Ribamar - MA, 65110-000",
+      "bairro": "CANAVIEIRA",
+      "eleitores": 448,
+      "sessoes": 2
+   },
+   {
+      "id": 8,
+      "latlng": "-2.6010716,-44.136238",
+      "nome": "CEM-CENTRO DE ENSINO MÉDIO SÃO JOSÉ RIBAMAR - OLHO D’AGUA",
+      "endereco": "R. Olho Dágua, S/N - Olho dÁgua, São José de Ribamar - MA, 65110-000",
+      "bairro": "CENTRO",
+      "eleitores": 1205,
+      "sessoes": 4
+   },
+   {
+      "id": 9,
+      "latlng": "-2.5500272,-44.0599699      ",
+      "nome": "UNIDADE INTEGRADA JOSE RIBAMAR M. E SILVA - SÃO BENEDITO",
+      "endereco": "R. 28 de Julho, 884-1232 - Moropia, São José de Ribamar - MA, 65110-000",
+      "bairro": "CENTRO",
+      "eleitores": 1139,
+      "sessoes": 4
+   },
+   {
+      "id": 10,
+      "latlng": "-2.559944,-44.0576109",
+      "nome": "CURSO PRE-VESTIBULAR MUNICIPAL - SEDE",
+      "endereco": "São José de Ribamar - MA, 65110-000",
+      "bairro": "CENTRO",
+      "eleitores": 237,
+      "sessoes": 1
+   },
+   {
+      "id": 11,
+      "latlng": "-2.5593022,-44.0579048",
+      "nome": "ESCOLA INTEGRADA PAULO RAMOS - SEDE",
+      "endereco": "Av. Gonçalves Dias, 520 - Centro - Zona Urbana, São José de Ribamar - MA, 65110-000",
+      "bairro": "CENTRO",
+      "eleitores": 1506,
+      "sessoes": 5
+   },
+   {
+      "id": 12,
+      "latlng": "-2.5550512,-44.0720472",
+      "nome": "UNIDADE INTEGRADA PROFA LEDA CHAVES TAJRA - SACO",
+      "endereco": "R. Getúlio Vargas - São Raimundo - Zona Urbana, São José de Ribamar - MA, 65110-000",
+      "bairro": "CENTRO",
+      "eleitores": 2065,
+      "sessoes": 6
+   },
+   {
+      "id": 13,
+      "latlng": "-2.5550512,-44.0720472",
+      "nome": "UNIDADE INTEGRADA HUMBERTO DE CAMPOS - SACO",
+      "endereco": "Av. Gonçalves Dias - Centro - Zona Urbana, São José de Ribamar - MA, 65110-000",
+      "bairro": "CENTRO",
+      "eleitores": 3028,
+      "sessoes": 9
+   },
+   {
+      "id": 14,
+      "latlng": "-2.5500286,-44.071579",
+      "nome": "PATRONATO SAO JOSE DE RIBAMAR - PRAÇA MATRIZ",
+      "endereco": "Praca Matriz 190, São José de Ribamar - MA, 65110-000",
+      "bairro": "CENTRO",
+      "eleitores": 1642,
+      "sessoes": 5
+   },
+   {
+      "id": 15,
+      "latlng": "-2.5576338,-44.2364944",
+      "nome": "UNIDADE ESCOLAR SAO JOSE - VIEIRA",
+      "endereco": "R. Primeiro de Maio, 60 - Riozinho - Zona Rural, São Luís - MA, 65057-020",
+      "bairro": "CENTRO",
+      "eleitores": 55,
+      "sessoes": 2
+   },
+   {
+      "id": 16,
+      "latlng": "-2.5576319,-44.0666284",
+      "nome": "UNIDADE INTEGRADA DR JOSE SILVA - CRUZEIRO",
+      "endereco": "R. da Liberdade, 714 - Cruzeiro - Zona Urbana, São José de Ribamar - MA, 65110-000",
+      "bairro": "CENTRO",
+      "eleitores": 615,
+      "sessoes": 3
+   },
+   {
+      "id": 17,
+      "latlng": "-2.5551991,-44.0597467",
+      "nome": "UNIDADE ESCOLAR PROFESSOR DARIO SANTOS - CRUZEIRO",
+      "endereco": "R. da Liberdade - Cruzeiro - Zona Urbana, São José de Ribamar - MA, 65110-000",
+      "bairro": "CENTRO",
+      "eleitores": 725,
+      "sessoes": 3
+   },
+   {
+      "id": 18,
+      "latlng": "-2.5473001,-44.2512863",
+      "nome": "COLEGIO MILENIUM - LADO DO MATEUS",
+      "endereco": "Rua 17, n° 1026 Trizidela da, Estr. da Maioba - Cohatrac, São José de Ribamar - MA, 65110-000",
+      "bairro": "COHATRAC V",
+      "eleitores": 654,
+      "sessoes": 3
+   },
+   {
+      "id": 19,
+      "latlng": "-2.5417769,-44.2061174",
+      "nome": "COLÉGIO SANTO EXPEDITO - JARDIM ARAÇAGY 1",
+      "endereco": "R. e, 56 - Quadra 27 - Cohatrac I, São Luís - MA, 65053-060",
+      "bairro": "COHATRAC V",
+      "eleitores": 204,
+      "sessoes": 1
+   },
+   {
+      "id": 20,
+      "latlng": "-2.620939,-44.2351371",
+      "nome": "ESCOLA MUNICIPAL RICARDO RIBEIRO DA SILVA",
+      "endereco": "Av. Principal - Guarapiranga - Zona Rural, São José de Ribamar - MA, 65110-000",
+      "bairro": "GUARAPIRANGA",
+      "eleitores": 283,
+      "sessoes": 1
+   },
+   {
+      "id": 21,
+      "latlng": "-2.5322872,-44.2271949",
+      "nome": "ESCOLA MUNICIPAL MENINO JESUS",
+      "endereco": "Estr. de Itapiracó, 90 - Turu, São Luís - MA, 65110-000",
+      "bairro": "ITAPIRACÓ",
+      "eleitores": 149,
+      "sessoes": 3
+   },
+   {
+      "id": 22,
+      "latlng": "-2.5322872,-44.2271949",
+      "nome": "UNIDADE ESCOLAR JOAO GONCALVES DA SILVA - BOA VISTA",
+      "endereco": "R. Principal - Boa Vista - Zona Rural, São José de Ribamar - MA, 65110-000",
+      "bairro": "JOTA LIMA",
+      "eleitores": 1239,
+      "sessoes": 5
+   },
+   {
+      "id": 23,
+      "latlng": "-2.5493269,-44.1072904",
+      "nome": "UNIDADE INTEGRADA JOSE CAMARA FERREIRA",
+      "endereco": "Vila Sao Jose, São José de Ribamar - MA, 65110-000",
+      "bairro": "J. CAMARA",
+      "eleitores": 603,
+      "sessoes": 4
+   },
+   {
+      "id": 24,
+      "latlng": "-2.5568143,-44.0622034",
+      "nome": "UNIDADE ESCOLAR SAO FRANCISCO",
+      "endereco": "R. das Flôres - J. Câmara - Zona Urbana, São José de Ribamar - MA, 65110-000",
+      "bairro": "J. CAMARA",
+      "eleitores": 608,
+      "sessoes": 3
+   },
+   {
+      "id": 25,
+      "latlng": "-2.5714943,-44.1771337",
+      "nome": "ESCOLA MUNICIPAL GONÇALVES DIAS",
+      "endereco": "Av. Paraíso, 1616 - Jardim Tropical, São José de Ribamar - MA, 65110-000",
+      "bairro": "JARDIM TROPICAL",
+      "eleitores": 1775,
+      "sessoes": 5
+   },
+   {
+      "id": 26,
+      "latlng": "-2.5805729,-44.1710491",
+      "nome": "ESCOLA MUNICIPAL SILVA RODRIGUES",
+      "endereco": "Av. Trindade, 3758-3908 - Jardim Tropical, São José de Ribamar - MA, 65110-000",
+      "bairro": "JARDIM TROPICAL",
+      "eleitores": 77,
+      "sessoes": 1
+   },
+   {
+      "id": 27,
+      "latlng": "-2.5759137,-44.1766439",
+      "nome": "GRUPO ESCOLAR GOVERNADOR LUIS REGO",
+      "endereco": "R. Alameda Santa Inês - Jardim Tropical I - Zona Urbana, São José de Ribamar - MA, 65110-000",
+      "bairro": "JARDIM TROPICAL",
+      "eleitores": 3223,
+      "sessoes": 9
+   },
+   {
+      "id": 28,
+      "latlng": "-2.5610781,-44.1901729",
+      "nome": "ESCOLA MUNICIPAL PROF ROSA RAIMUNDA PAIXAO GARCEZ",
+      "endereco": "Av. Principal - Jussatuba - Zona Rural, São José de Ribamar - MA, 65110-000",
+      "bairro": "JUÇATUBA",
+      "eleitores": 445,
+      "sessoes": 2
+   },
+   {
+      "id": 29,
+      "latlng": "-2.5598177,-44.1763123",
+      "nome": "UNIDADE ESCOLAR GERMANO GARCEZ",
+      "endereco": "R. Principal - Jussatuba - Zona Rural, São José de Ribamar - MA, 65110-000",
+      "bairro": "JUÇATUBA",
+      "eleitores": 596,
+      "sessoes": 3
+   },
+   {
+      "id": 30,
+      "latlng": "-2.558509,-44.1904512",
+      "nome": "CENTRO PEDAGÓGICO CASA DA CRIANÇA",
+      "endereco": "R. Rio Pindaré - Kiola Costa, São José de Ribamar - MA, 65110-000",
+      "bairro": "KIOLA COSTA",
+      "eleitores": 246,
+      "sessoes": 1
+   },
+   {
+      "id": 31,
+      "latlng": "-2.5598177,-44.1763123",
+      "nome": "UNIDADE ESCOLAR ANACLETA CASCAES",
+      "endereco": "R. Principal - Laranjal - Zona Rural, São José de Ribamar - MA, 65110-000",
+      "bairro": "LARANJAL",
+      "eleitores": 477,
+      "sessoes": 2
+   },
+   {
+      "id": 32,
+      "latlng": "-4.1814128,-46.2991528",
+      "nome": "UNIDADE ESCOLAR MARLY SARNEY",
+      "endereco": "Av. Principal - Maiobinha - Zona Urbana, São José de Ribamar - MA, 65110-000",
+      "bairro": "MAIOBINHA",
+      "eleitores": 500,
+      "sessoes": 3
+   },
+   {
+      "id": 33,
+      "latlng": "-2.5598177,-44.1763123",
+      "nome": "UNIDADE ESCOLAR 7 DE SETEMBRO",
+      "endereco": "R. Principal - Maiobinha - Zona Urbana, São José de Ribamar - MA, 65110-000",
+      "bairro": "MAIOBINHA",
+      "eleitores": 1014,
+      "sessoes": 4
+   },
+   {
+      "id": 35,
+      "latlng": "-2.5629376,-44.2020641",
+      "nome": "UNIAO DOS MORADORES DA MAIOBINHA",
+      "endereco": "R. São Sebastião, 272 - Maiobinha, São José de Ribamar - MA, 65110-000",
+      "bairro": "MAIOBINHA",
+      "eleitores": 1973,
+      "sessoes": 7
+   },
+   {
+      "id": 36,
+      "latlng": "-2.5454292,-44.1124075",
+      "nome": "CENTRO DE ENSINO TARQUINIO LOPES FILHO",
+      "endereco": "Estr. Velha Ribamar, S/Nº - Maracajá, São José de Ribamar - MA, 65110-000",
+      "bairro": "MARACAJÁ",
+      "eleitores": 14,
+      "sessoes": 1
+   },
+   {
+      "id": 37,
+      "latlng": "-2.5706289,-44.1598952",
+      "nome": "ESCOLA MUNICIPAL IRADES DA SILVA PEREIRA",
+      "endereco": "Av. Trindade, 1950-2118, São José de Ribamar - MA, 65110-000",
+      "bairro": "MATINHA",
+      "eleitores": 252,
+      "sessoes": 2
+   },
+   {
+      "id": 38,
+      "latlng": "-2.5762587,-44.1641989",
+      "nome": "CEMA DA MATINHA SALUSTIANO TRINDADE",
+      "endereco": "Av. Trindade, 316 - Jardim Tropical, São José de Ribamar - MA, 65110-000",
+      "bairro": "MATINHA",
+      "eleitores": 3045,
+      "sessoes": 9
+   },
+   {
+      "id": 39,
+      "latlng": "-2.5133215,-44.2028188",
+      "nome": "ESCOLA AQUARELA DO APRENDER",
+      "endereco": "Rua do Cruzeiro - Miritiua, São José de Ribamar - MA, 65058-130",
+      "bairro": "MIRITIUA",
+      "eleitores": 484,
+      "sessoes": 2
+   },
+   {
+      "id": 40,
+      "latlng": "-2.4980125,-44.1994441",
+      "nome": "ESCOLA MUNICIPAL DO MIRITIUA",
+      "endereco": "Av. Gen. Arthur Carvalho, 476-536 - Novo Cohatrac, São José de Ribamar - MA, 65110-000",
+      "bairro": "MIRITIUA",
+      "eleitores": 972,
+      "sessoes": 3
+   },
+   {
+      "id": 41,
+      "latlng": "-2.5535677,-44.071097",
+      "nome": "UNIDADE ESCOLAR NAZILDE MENDONCA",
+      "endereco": "R. São Judas Tadeu, 259 - Moropoia - Zona Urbana, São José de Ribamar - MA, 65110-000",
+      "bairro": "MOROPOIA",
+      "eleitores": 594,
+      "sessoes": 3
+   },
+   {
+      "id": 42,
+      "latlng": "-2.5551494,-44.06126",
+      "nome": "COLÉGIO BATISTA ALIANÇA",
+      "endereco": "Av. Gonçalves Dias, 1126 - Moropóia, São José de Ribamar - MA, 65110-000",
+      "bairro": "MOROPOIA",
+      "eleitores": 1081,
+      "sessoes": 7
+   },
+   {
+      "id": 43,
+      "latlng": "-2.550071,-44.0716002",
+      "nome": "CEMA DE RIBAMAR PROFESSORA MARIA ELISA",
+      "endereco": "R. 28 de Julho, 780 - Moropia, São José de Ribamar - MA, 65110-000",
+      "bairro": "MOROPOIA",
+      "eleitores": 2525,
+      "sessoes": 8
+   },
+   {
+      "id": 44,
+      "latlng": "-2.5474238,-44.0702427",
+      "nome": "UNIDADE INTEGRADA DIOMEDES PEREIRA",
+      "endereco": "R. João Alves Carneiro, 1053 - Moropóia, São José de Ribamar - MA, 65110-000",
+      "bairro": "MOROPOIA",
+      "eleitores": 3260,
+      "sessoes": 9
+   },
+   {
+      "id": 45,
+      "latlng": "-2.572015,-44.151765",
+      "nome": "CRECHE NOVA TERRA",
+      "endereco": "Av. Contôrno Leste, 07 - Quadra C - Cohatrac IV, São Luís - MA, 65054-690",
+      "bairro": "NOVA TERRA",
+      "eleitores": 1361,
+      "sessoes": 4
+   },
+   {
+      "id": 46,
+      "latlng": "-2.5327878,-44.197274",
+      "nome": "CAC - COLEGIO APRENDER COHATRAC",
+      "endereco": "Av. Contôrno Leste, 07 - Quadra C - Cohatrac IV, São Luís - MA, 65054-690",
+      "bairro": "NOVO COHATRAC",
+      "eleitores": 752,
+      "sessoes": 3
+   },
+   {
+      "id": 47,
+      "latlng": "-2.4861703,-44.2029039",
+      "nome": "ESCOLA MUNICIPAL REI DAVI",
+      "endereco": "R. Itaúna - Novo Cohatrac, São José de Ribamar - MA, 65110-000",
+      "bairro": "NOVO COHATRAC",
+      "eleitores": 1022,
+      "sessoes": 3
+   },
+   {
+      "id": 48,
+      "latlng": "-2.4417082,-44.1171332",
+      "nome": "UNIDADE INTEGRADA SANTO ANTONIO",
+      "endereco": "Jardim das Oliveiras, Raposa - MA, 65138-000",
+      "bairro": "PANAQUATIRA",
+      "eleitores": 2244,
+      "sessoes": 7
+   },
+   {
+      "id": 49,
+      "latlng": "-2.5242617,-44.1809435",
+      "nome": "UNIDADE ESCOLAR RIBEIRO DO AMARAL",
+      "endereco": "R. Ribeiro Amaral, 29 - Trizidela, Paço do Lumiar - MA, 65137-000",
+      "bairro": "PARQUE JAIR -VILA MAIOBA DO JENIPAPEIRO",
+      "eleitores": 942,
+      "sessoes": 9
+   },
+   {
+      "id": 50,
+      "latlng": "-2.5025407,-44.1872391",
+      "nome": "ESCOLA MUNICIPAL LICEU RIBAMARENSE II",
+      "endereco": "R. Kênia Cristina - Vila Maioba do Janipapeiro, Paço do Lumiar - MA, 65130-000",
+      "bairro": "PARQUE JAIR -VILA MAIOBA DO JENIPAPEIRO",
+      "eleitores": 2251,
+      "sessoes": 7
+   },
+   {
+      "id": 51,
+      "latlng": "-2.5219168,-44.2240833",
+      "nome": "CRECHE COMUNITARIA SONHO DE CRIANÇA",
+      "endereco": "av, Av. Moacir Feitosa, 17, São José de Ribamar - MA",
+      "bairro": "PARQUE VITÓRIA",
+      "eleitores": 88,
+      "sessoes": 2
+   },
+   {
+      "id": 52,
+      "latlng": "-2.5483565,-44.1105264",
+      "nome": "INSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA - IFMA",
+      "endereco": "Rodovia MA 201, Km 12, s/n - Piçarreira, São José de Ribamar - MA, 65110-000",
+      "bairro": "PIÇARREIRA",
+      "eleitores": 160,
+      "sessoes": 1
+   },
+   {
+      "id": 53,
+      "latlng": "-2.554755,-44.1431551",
+      "nome": "UNIDADE ESCOLAR GOMES DE SOUSA",
+      "endereco": "Pindaí, São José de Ribamar - MA, 65110-000",
+      "bairro": "PINDAÍ",
+      "eleitores": 485,
+      "sessoes": 2
+   },
+   {
+      "id": 54,
+      "latlng": "-2.5598177,-44.1763123",
+      "nome": "UNIDADE ESCOLAR SANTA MARIA",
+      "endereco": "R. Principal - Povoado Santa Maria - Zona Rural, São José de Ribamar - MA, 65110-000",
+      "bairro": "POVOADO DE SANTA MARIA",
+      "eleitores": 438,
+      "sessoes": 2
+   },
+   {
+      "id": 55,
+      "latlng": "-2.5595537,-44.2094063",
+      "nome": "UNIDADE ESCOLAR NOSSA SENHORA DA VITORIA",
+      "endereco": "Av. Trindade - Quinta - Zona Rural, São José de Ribamar - MA, 65110-000",
+      "bairro": "QUINTA DA BOA VISTA",
+      "eleitores": 831,
+      "sessoes": 3
+   },
+   {
+      "id": 56,
+      "latlng": "-2.5764571,-44.1973439",
+      "nome": "ESCOLA MUNICIPAL NOSSA SENHORA DE SANTANA",
+      "endereco": "Av. Principal - Santana - Zona Rural, São José de Ribamar - MA, 65110-000",
+      "bairro": "SANTANA",
+      "eleitores": 248,
+      "sessoes": 1
+   },
+   {
+      "id": 57,
+      "latlng": "-2.5531876,-44.1717515",
+      "nome": "UNIDADE ESCOLAR SAO JOSE DOS INDIOS",
+      "endereco": "R. Principal - São José dos Indios - Zona Rural, São José de Ribamar - MA, 65110-000",
+      "bairro": "SÃO JOSÉ DOS INDIOS",
+      "eleitores": 1919,
+      "sessoes": 6
+   },
+   {
+      "id": 58,
+      "latlng": "-2.5598177,-44.1763123",
+      "nome": "UNIDADE ESCOLAR GOVERNADOR SARNEY",
+      "endereco": "R. Principal - Sitio do Apicum - Zona Rural, São José de Ribamar - MA, 65110-000",
+      "bairro": "SITIO DO APICUM",
+      "eleitores": 899,
+      "sessoes": 3
+   },
+   {
+      "id": 59,
+      "latlng": "-2.5582735,-44.1769427",
+      "nome": "UNIDADE ESCOLAR ACTO JUVENCIO NOGUEIRA",
+      "endereco": "Tv. Nova Tres, 733 - Vila Tijupa Queimado, São José de Ribamar - MA, 65110-000",
+      "bairro": "TIJUPÁ QUEIMADO",
+      "eleitores": 656,
+      "sessoes": 6
+   },
+   {
+      "id": 60,
+      "latlng": "-2.5503796,-44.0723901",
+      "nome": "COLEGIO SHALOM",
+      "endereco": "Altura do número 43 - Avenida Contorno Sul, 100 - Trizidela, São José de Ribamar - MA, 65110-000",
+      "bairro": "TRIZIDELA DA MAIOBA",
+      "eleitores": 231,
+      "sessoes": 2
+   },
+   {
+      "id": 61,
+      "latlng": "-2.5365338,-44.1940256",
+      "nome": "COLEGIO O BOM PASTOR JUNIOR",
+      "endereco": "R. 9, 15 - Novo Cohatrac, São José de Ribamar - MA, 65110-000",
+      "bairro": "TRIZIDELA DA MAIOBA",
+      "eleitores": 940,
+      "sessoes": 3
+   },
+   {
+      "id": 62,
+      "latlng": "-2.5586435,-44.2580766",
+      "nome": "CRAS - CENTRO DE REFERÊNCIA E ASSISTÊNCIA SOCIAL",
+      "endereco": "Vila Maioba do Janipapeiro, Paço do Lumiar - MA, 65060-000",
+      "bairro": "TRIZIDELA DA MAIOBA",
+      "eleitores": 32,
+      "sessoes": 1
+   },
+   {
+      "id": 63,
+      "latlng": "-2.5442875,-44.2020586",
+      "nome": "ESCOLA EDUCANDO - ITAGUARÁ",
+      "endereco": "Av. C, 17 - Quadra 15 - Cohatrac, São José de Ribamar - MA, 65110-000",
+      "bairro": "TRIZIDELA DA MAIOBA",
+      "eleitores": 390,
+      "sessoes": 5
+   },
+   {
+      "id": 64,
+      "latlng": "-2.5646877,-44.1048909",
+      "nome": "CRECHE TURIÚBA",
+      "endereco": "Res. Turiúba, São José de Ribamar - MA, 65110-000",
+      "bairro": "TURIÚBA",
+      "eleitores": 1129,
+      "sessoes": 4
+   },
+   {
+      "id": 65,
+      "latlng": "-2.4932361,-44.2044711",
+      "nome": "ESCOLA MUNICIPAL EUGENIO BARROS",
+      "endereco": "Avenida Sol Nascente, 27 - Vila Alonso Costa - Zona Rural, São José de Ribamar - MA, 65067-430",
+      "bairro": "VILA ALONSO COSTA",
+      "eleitores": 705,
+      "sessoes": 2
+   },
+   {
+      "id": 66,
+      "latlng": "-2.5660219,-44.1971479",
+      "nome": "UNIAO DOS MORADORES VILA CAFETEIRA OLAVO BILAC",
+      "endereco": "Vila Cafeteira, São José de Ribamar - MA 65110-000",
+      "bairro": "VILA CAFETEIRA",
+      "eleitores": 1354,
+      "sessoes": 4
+   },
+   {
+      "id": 67,
+      "latlng": "-2.5165907,-44.211767",
+      "nome": "COLÉGIO BIOMETRIA - PARQUE VITORIA",
+      "endereco": "Q304 N°04 - Via Coletora, 7000, São José de Ribamar - MA, 65110-000",
+      "bairro": "VILA COLETORA",
+      "eleitores": 764,
+      "sessoes": 2
+   },
+   {
+      "id": 68,
+      "latlng": "-2.5568542,-44.1329375",
+      "nome": "ESCOLA MUNICIPAL VOVÓ AMÁLIA - POSTE VERMELHO",
+      "endereco": "R. Principal, 613-651 - Vila Doutor José Silva, São José de Ribamar - MA, 65110-000",
+      "bairro": "VILA DOUTOR JOSÉ SILVA",
+      "eleitores": 650,
+      "sessoes": 3
+   },
+   {
+      "id": 69,
+      "latlng": "-2.5598177,-44.1763123",
+      "nome": "UNIDADE INTEGRADA JOSE GREGORIO BOTAO",
+      "endereco": "R. Principal - Vila Dr. Julinho - Zona Urbana, São José de Ribamar - MA, 65110-000",
+      "bairro": "VILA DR. JULINHO",
+      "eleitores": 1733,
+      "sessoes": 5
+   },
+   {
+      "id": 70,
+      "latlng": "-2.5589421,-44.0570338",
+      "nome": "UNIDADE INTEGRADA ESTADO DA GUANABARA",
+      "endereco": "R. 28 de Julho, 64 - Moropia, São José de Ribamar - MA, 65110-000",
+      "bairro": "VILA DR. JULINHO",
+      "eleitores": 2033,
+      "sessoes": 7
+   },
+   {
+      "id": 71,
+      "latlng": "-2.5393205,-44.3339023",
+      "nome": "ESCOLA COMUNITARIA LIRIO DO VALE",
+      "endereco": "R. Projetada - Angelim, São Luís - MA, 65042-500",
+      "bairro": "VILA FLAMENGO",
+      "eleitores": 1414,
+      "sessoes": 4
+   },
+   {
+      "id": 72,
+      "latlng": "-2.5598177,-44.1763123",
+      "nome": "ESCOLA MUNICIPAL CRIANCA ESPERANCA",
+      "endereco": "R. Principal - Vila Flamengo - Zona Urbana, São José de Ribamar - MA, 65110-000",
+      "bairro": "VILA FLAMENGO",
+      "eleitores": 985,
+      "sessoes": 3
+   },
+   {
+      "id": 73,
+      "latlng": "-2.554353,-44.1843976",
+      "nome": "ESCOLA MUNICIPAL AMIGOS DA PAZ",
+      "endereco": "R. Isabel, 13a - Kiola Costa, São José de Ribamar - MA, 65110-000",
+      "bairro": "VILA KIOLA",
+      "eleitores": 305,
+      "sessoes": 1
+   },
+   {
+      "id": 74,
+      "latlng": "-2.5818963,-44.1971636",
+      "nome": "ESCOLA MUNICIPAL BOM MESTRE",
+      "endereco": "Rua princesa orleans número 14 bairro Kiola zona rural, São José de Ribamar - MA",
+      "bairro": "VILA KIOLA",
+      "eleitores": 1358,
+      "sessoes": 4
+   },
+   {
+      "id": 78,
+      "latlng": "-2.5566866,-44.1889827",
+      "nome": "UNIDADE INTEGRADA NICE LOBAO",
+      "endereco": "Av. Princesa Diana - Vila Kiola Costa - Zona Urbana, São José de Ribamar - MA, 65110-000",
+      "bairro": "VILA KIOLA",
+      "eleitores": 1785,
+      "sessoes": 5
+   },
+   {
+      "id": 79,
+      "latlng": "-2.5598177,-44.1763123",
+      "nome": "ESCOLA MUNICIPAL PROFª AUGUSTA MARIA",
+      "endereco": "R. Principal - Vila Operaria - Zona Urbana, São José de Ribamar - MA, 65110-000",
+      "bairro": "VILA OPERÁRIA",
+      "eleitores": 499,
+      "sessoes": 2
+   },
+   {
+      "id": 80,
+      "latlng": "-2.5597909,-44.1829052",
+      "nome": "ESCOLA MUNICIPAL DA VILA OPERÁRIA",
+      "endereco": "Vila São José, São José de Ribamar - MA, 65110-000",
+      "bairro": "VILA OPERÁRIA",
+      "eleitores": 2328,
+      "sessoes": 7
+   },
+   {
+      "id": 81,
+      "latlng": "-2.559596,-44.2443848",
+      "nome": "ESCOLA MUNICIPAL LICEU RIBAMARENSE",
+      "endereco": "Av. Gonçalves Dias - Vila Roseana, São José de Ribamar - MA, 65110-000",
+      "bairro": "VILA ROSEANA SARNEY",
+      "eleitores": 2535,
+      "sessoes": 12
+   },
+   {
+      "id": 82,
+      "latlng": "-2.5618836,-44.1985316",
+      "nome": "UNIDADE INTEGRADA ROSEANA SARNEY",
+      "endereco": "R. São Sebastião - Vila Roseana Sarney - Zona Urbana, São Luís - MA, 65052-140",
+      "bairro": "VILA ROSEANA SARNEY",
+      "eleitores": 1184,
+      "sessoes": 4
+   },
+   {
+      "id": 83,
+      "latlng": "-2.5604584,-44.1828473",
+      "nome": "CENTRO DE ENSINO CARLOS MELO",
+      "endereco": "Av. José Câmara - Vila São José, São José de Ribamar - MA, 65110-000",
+      "bairro": "VILA SÃO JOSÉ",
+      "eleitores": 5,
+      "sessoes": 1
+   },
+   {
+      "id": 84,
+      "latlng": "-2.5851888,-44.2394355",
+      "nome": "UNIDADE ESCOLAR DR. FIQUENE",
+      "endereco": "Vila Sarney Filho I, São José de Ribamar - MA, 65060-000",
+      "bairro": "VILA SARNEY FILHO 1",
+      "eleitores": 1758,
+      "sessoes": 5
+   },
+   {
+      "id": 85,
+      "latlng": "-2.4245783,-44.1042911",
+      "nome": "UNIDADE INTEGRADA SARNEY FILHO",
+      "endereco": "Estr. da Raposa, 340, Raposa - MA, 65138-000",
+      "bairro": "VILA SARNEY FILHO 1",
+      "eleitores": 2721,
+      "sessoes": 8
+   },
+   {
+      "id": 86,
+      "latlng": "-2.5699755,-44.1702137",
+      "nome": "UNIDADE ESCOLAR GERMANO BATISTA",
+      "endereco": "Av. Mascarenhas de Moraes, 1 - Vila Sarney Filho II, São José de Ribamar - MA, 65110-000",
+      "bairro": "VILA SARNEY FILHO 2",
+      "eleitores": 466,
+      "sessoes": 3
+   },
+   {
+      "id": 87,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "UNIDADE INTEGRADA JOSE RIBAMAR M. E SILVA - SÃO BENEDITO",
+      "endereco": "SEM REGISTRO",
+      "bairro": "CENTRO",
+      "eleitores":1139,
+      "sessoes": 4
+   },
+   {
+      "id": 88,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "ESCOLA MUNICIPAL SÃO RAIMUNDO - PRÉ-ESCOLA - SACO",
+      "endereco": "SEM REGISTRO",
+      "bairro": "CENTRO",
+      "eleitores": 232,
+      "sessoes": 2
+   },
+   {
+      "id": 89,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "COLEGIO CAIC - SACO",
+      "endereco": "SEM REGISTRO",
+      "bairro": "CENTRO",
+      "eleitores": 1965,
+      "sessoes": 6
+   },
+   {
+      "id": 90,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "UNIDADE ESCOLAR SAO JOSE - VIEIRA",
+      "endereco": "SEM REGISTRO",
+      "bairro": "CENTRO",
+      "eleitores": 55,
+      "sessoes": 2
+   },
+   {
+      "id": 91,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "ESCOLA MUNICIPAL ITAPARY - PRÉ-ESCOLA",
+      "endereco": "SEM REGISTRO",
+      "bairro": "ITAPARY",
+      "eleitores": 255,
+      "sessoes": 2
+   },
+   {
+      "id": 92,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "UNIDADE ESCOLAR JOAO GONCALVES DA SILVA - BOA VISTA",
+      "endereco": "SEM REGISTRO",
+      "bairro": "JOTA LIMA",
+      "eleitores": 1239,
+      "sessoes": 5
+   },
+   {
+      "id": 94,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "UNIDADE ESCOLAR DR. JULIO MATOS II",
+      "endereco": "SEM REGISTRO",
+      "bairro": "JOTA LIMA",
+      "eleitores": 278,
+      "sessoes": 1
+   },
+   {
+      "id": 95,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "ESCOLA MUNICIPAL SAO JOSE DE RIBAMAR",
+      "endereco": "SEM REGISTRO",
+      "bairro": "JOTA LIMA",
+      "eleitores": 1474,
+      "sessoes": 4
+   },
+   {
+      "id": 96,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "UNIDADE INTEGRADA JOSE FERNANDES MACHADO",
+      "endereco": "SEM REGISTRO",
+      "bairro": "JARDIM TROPICAL",
+      "eleitores": 1808,
+      "sessoes": 5
+   },
+   {
+      "id": 97,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "ESCOLA MUNICIPAL NOSSA SENHORA DE NAZARE",
+      "endereco": "SEM REGISTRO",
+      "bairro": "MAIOBINHA",
+      "eleitores": 78,
+      "sessoes": 2
+   },
+   {
+      "id": 98,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "ESCOLA MUNICIPAL DO RESIDENCIAL OLIMPO - RESIDENCIAL OLIMPO",
+      "endereco": "SEM REGISTRO",
+      "bairro": "MATA",
+      "eleitores": 371,
+      "sessoes": 1
+   },
+   {
+      "id": 99,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "UNIDADE ESCOLAR DUNCHES DE ABRANCHES",
+      "endereco": "SEM REGISTRO",
+      "bairro": "MATA",
+      "eleitores": 1176,
+      "sessoes": 4
+   },
+   {
+      "id": 100,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "INSTITUTO DE CAPACITACAO GERSYKA EMMEL",
+      "endereco": "SEM REGISTRO",
+      "bairro": "NOVO COHATRAC",
+      "eleitores": 1210,
+      "sessoes": 4
+   },
+   {
+      "id": 101,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "UNIDADE INTEGRADA PARQUE VITORIA",
+      "endereco": "SEM REGISTRO",
+      "bairro": "PARQUE VITÓRIA",
+      "eleitores": 3173,
+      "sessoes": 9
+   },
+   {
+      "id": 102,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "CENTRO DE CAPACITAÇÃO TECNOLÓGICA",
+      "endereco": "SEM REGISTRO",
+      "bairro": "PIÇARREIRA",
+      "eleitores": 1315,
+      "sessoes": 4
+   },
+   {
+      "id": 103,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "JARDIM DE INFANCIA ALICE PEREIRA NOJOSA",
+      "endereco": "SEM REGISTRO",
+      "bairro": "RIO SÃO JOÃO",
+      "eleitores": 124,
+      "sessoes": 2
+   },
+   {
+      "id": 104,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "CEMA DO RIO DE SAO JOAO ANITA ROCHA",
+      "endereco": "SEM REGISTRO",
+      "bairro": "RIO SÃO JOÃO",
+      "eleitores": 903,
+      "sessoes": 3
+   },
+   {
+      "id": 105,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "ESCOLA MUNICIPAL ERICINA DE JESUS - PRÉ-ESCOLA",
+      "endereco": "SEM REGISTRO",
+      "bairro": "SITIO DO APICUM",
+      "eleitores": 54,
+      "sessoes": 2
+   },
+   {
+      "id": 106,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "UNIAO DOS MORADORES VILA CAFETEIRA OLAVO BILAC",
+      "endereco": "SEM REGISTRO",
+      "bairro": "VILA CAFETEIRA",
+      "eleitores": 1354,
+      "sessoes": 2
+   },
+   {
+      "id": 107,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "ESCOLA MUNICIPAL AMIGOS DA PAZ",
+      "endereco": "SEM REGISTRO",
+      "bairro": "VILA KIOLA",
+      "eleitores": 305,
+      "sessoes": 1
+   },
+   {
+      "id": 108,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "ASSOCIACAO DOS MORADORES DA VILA SANTA TEREZINHA",
+      "endereco": "SEM REGISTRO",
+      "bairro": "VILA SANTA TEREZINHA",
+      "eleitores": 890,
+      "sessoes": 3
+   },
+   {
+      "id": 109,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "ESCOLA MUNICIPAL TIA ELIANA",
+      "endereco": "SEM REGISTRO",
+      "bairro": "VILA SÃO JOSÉ",
+      "eleitores": 185,
+      "sessoes": 2
+   },
+   {
+      "id": 110,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "ESCOLA MUNICIPAL DARIO DA SILVA",
+      "endereco": "SEM REGISTRO",
+      "bairro": "VILA SÃO LUÍS",
+      "eleitores": 1016,
+      "sessoes":4 
+   },
+   {
+      "id": 111,
+      "latlng": "-2,532550, -44,169060",
+      "nome": "ESCOLA MUNICIPAL FRUTO DA ALIANÇA",
+      "endereco": "SEM REGISTRO",
+      "bairro": "VILA SARNEY FILHO 1",
+      "eleitores": 984,
+      "sessoes": 4
+   }
+]
